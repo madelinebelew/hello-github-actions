@@ -1,4 +1,4 @@
-name: A worlkflow fro my Hello World file
+name: A worlkflow for my Hello World file
 on: push
 
 jobs:
